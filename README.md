@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I´m Elias 👋
+const Elias = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: ['GIT', 'GitHub', 'GitLab'],
+}
 
+You can find me 🌍:
+- [Instagram](https://www.instagram.com/elias22.ok)
+- [imal](eportillo0722@gmail.com)
 <!--
 **EPortillo22/EPortillo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
