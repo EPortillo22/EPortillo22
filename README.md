@@ -1,9 +1,9 @@
 ### Hi, I´m Elias 👋
 
-const EPortillo = {  
-   pronouns: "he" | "him",  
-   code: [Javascript, HTML, CSS],  
-   tools: ['GIT', 'GitHub', 'GitLab'],
+const EPortillo = {        
+     pronouns: "he" | "him",  
+     code: [Javascript, HTML, CSS],  
+     tools: ['GIT', 'GitHub', 'GitLab'],  
 }
 
 You can find me 🌍:
