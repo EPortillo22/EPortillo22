@@ -3,7 +3,7 @@
 const EPortillo = {        
      pronouns: "he" | "him",  
      code: [Javascript, HTML, CSS],  
-     tools: ['GIT', 'GitHub', 'GitLab'],  
+     tools: ['Git', 'GitHub', 'GitLab'],  
 }
 ```
 You can find me 🌍:
