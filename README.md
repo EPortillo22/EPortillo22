@@ -2,7 +2,7 @@
 ``` js
 const EPortillo = {        
      pronouns: "he" | "him",  
-     code: [Javascript, HTML, CSS],  
+     code: [HTML, CSS],  
      tools: ['Git', 'GitHub', 'GitLab'],  
 }
 ```
